@@ -29,11 +29,6 @@ This project analyzes customer churn in a telecom company dataset to uncover why
 
 ---
 
-## 📷 Visual Insights
-![Churn by Contract](charts/churn_by_contract.png)
-![Churn by Payment](charts/churn_by_payment.png)
-![Churn by Senior Status](charts/churn_by_senior.png)
-![Churn by Tenure](charts/churn_by_tenure.png)
 
 ---
 
@@ -51,30 +46,6 @@ This project analyzes customer churn in a telecom company dataset to uncover why
 - **Tools:** Jupyter Notebook
 
 ---
-
-## 🗂 How to Run the Project
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/Telco-Customer-Churn-Analysis.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd Telco-Customer-Churn-Analysis
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Open the notebook:
-   ```bash
-   jupyter notebook notebooks/TCA.ipynb
-   ```
-
----
-
-## 🔗 Links
-- **Executive Summary PDF:** [reports/Telco Customer Churn Analysis.pdf](reports/Telco%20Customer%20Churn%20Analysis.pdf)
-- **Dataset:** [data/Customer_Churn.csv](data/Customer_Churn.csv)
 
 ---
 
