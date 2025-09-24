@@ -6,37 +6,25 @@ This project analyzes customer churn in a telecom company dataset to uncover why
 ---
 
 ## 📊 Key Findings
-- **Overall Churn Rate:** 26.54% (approx. 1 in 4 customers)
 
 ### **1. By Contract Type**
-- Month-to-month: **42.7% churn**
-- One-year: **11.3% churn**
-- Two-year: **2.8% churn**
+- Month-to-month
+- One-year
+- Two-year
 
 ### **2. By Payment Method**
-- Electronic check: **45.3% churn** (highest)
-- Bank transfer: **16.7% churn**
-- Credit card: **15.2% churn**
-- Mailed check: **19.1% churn**
+- Electronic check
+- Bank transfer
+- Credit card
+- Mailed check
 
 ### **3. By Senior Citizen**
-- Seniors: **41.7% churn**
-- Non-seniors: **23.6% churn**
+- Seniors
+- Non-seniors
 
 ### **4. By Tenure**
-- 0-12 months: **47.7% churn**
-- 49-72 months: **9.5% churn**
-
----
-
-
----
-
-## 📝 Recommendations
-- **Promote long-term contracts** with discounts and incentives.
-- **Target new customers** with loyalty benefits to reduce early churn.
-- **Encourage auto-pay options** to reduce reliance on electronic checks.
-- **Bundle value-added services** like Online Security and Tech Support.
+- 0-12 months
+- 49-72 months
 
 ---
 
